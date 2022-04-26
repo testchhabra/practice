@@ -1,3 +1,3 @@
-print("Name       : Sadhil Chhabra")
-print("Enrollment : E19CSE299")
-print("Batch      : EB09")
+print("Devops")
+print("Software Project Management")
+print("High Performance Computing")
